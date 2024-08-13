@@ -9,8 +9,10 @@ function App() {
   return (
     <>
      <Navigation/>
+     <main className='main_container'>
      <ContacHeadert/>
-    <ContactForm/>
+     <ContactForm/>
+     </main>
   
     </>
   )

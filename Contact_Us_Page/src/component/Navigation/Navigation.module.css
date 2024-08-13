@@ -12,3 +12,7 @@
     list-style-type: none;
     font-weight: bold;
   }
+
+  .navigation ul li{
+    cursor: pointer;
+  }
